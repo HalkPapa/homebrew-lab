@@ -1,6 +1,6 @@
 cask "lab" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_SHA256_FROM_RELEASE"
+  sha256 "fa7a044823245ae025e45f1cef64a5a4a81d4793f6fce9e508aa3b7b860d964b"
 
   url "https://github.com/HalkPapa/LocalAgileBoard/releases/download/v#{version}/LAB-#{version}.dmg"
   name "LAB"
